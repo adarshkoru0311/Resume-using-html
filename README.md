@@ -1,2 +1,3 @@
-# Resume using html
- Building a resume using HTML only
+#Resume using HTML
+Building a resume using HTML only
+To view this Project please run the index.html file
